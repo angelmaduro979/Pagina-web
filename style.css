@@ -9,9 +9,14 @@ header{
 
 }
 
-ul_{
+ul{
 
     display: flex;
     gap: 10px;
     list-style: none;
+}
+
+section{
+    background-color: pink;
+    text-align: center;
 }
